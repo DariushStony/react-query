@@ -110,9 +110,23 @@ SWR, on the other hand, is a lightweight library focused on simplicity and speed
 
 ## Why not use ReactQuery
 
+No Idea
+
 ## React Query benefits for our project
+All of the above + transformers
 
 ## Challenges of integrating ReactQuery into the DK project
+
+- getServerSidePropsWrapper
+- createPage
+
+- apiRequestObject 
+- API Handler
+- useSSR
+- useAPI
+- usePageData
+- useFilter
+- useData
 
 ## Feasibility
 

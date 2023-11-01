@@ -23,5 +23,8 @@ export const useTodos = () => {
       const response = await getTodos();
       return response.data;
     },
+    // select: (data) => {
+    //   return data.map((item) => (item))
+    // },
   });
 };
